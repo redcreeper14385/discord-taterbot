@@ -10,4 +10,3 @@ There are also a variety of funny quote and meme commands! <br><br>
 ## Fast and Easy to Use
 The bot's Python base makes it super quick, and the bot is designed with simplicity in mind! <br><br>
 ![](https://i.imgur.com/h8dWeLB.png)
-### [Invite with Discord](https://discord.com/api/oauth2/authorize?client_id=742358280604483655&permissions=2048&scope=bot)
