@@ -1,4 +1,3 @@
-# TaterBot
 ### [Invite with Discord](https://discord.com/api/oauth2/authorize?client_id=742358280604483655&permissions=2048&scope=bot)
 A general use, fun bot for Discord made using the [Discord.py API](https://github.com/Rapptz/discord.py).
 ## Utility Commands
