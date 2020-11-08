@@ -1,2 +1,2 @@
-# taterbot.github.io
+# discord-taterbot
 Taterbot Website
