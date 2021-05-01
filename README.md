@@ -1,5 +1,5 @@
 # TaterBot
-### [Invite with Discord](https://discord.com/api/oauth2/authorize?client_id=742358280604483655&permissions=2048&scope=bot)
+### [Invite with Discord](https://discord.com/api/oauth2/authorize?client_id=742358280604483655&permissions=8&scope=bot)
 A general use, fun bot for Discord made using the [Discord.py API](https://github.com/Rapptz/discord.py).
 ## Utility Commands
 The bot has a variety of useful commands for everyday use, such as looking up Minecraft server statistics, and finding subreddits. <br><br>
